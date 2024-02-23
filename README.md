@@ -1,12 +1,12 @@
-# To Do
-* [x] Player movement
-* [x] Firing bullets
-* [x] Spawning asteroids
-* [x] Asteroid / bullet despawn
-* [x] Asteroid/bullet collision
-* [ ] Asteroid/ship collision
-* [ ] Health point display
-* [ ] Space background (maybe)
+# Bevy / Rust Tutorial
+https://wiki.wptcsu.com/en/cpt/howto/game-dev/rust-bevy-workshop
+
+## Setup
+Setup on Ubuntu
+```
+sudo apt install lld clang libasound2-dev libudev-dev
+```
 
 # Asset Credits
 * https://opengameart.org/content/ship-sprites
+
